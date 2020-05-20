@@ -3,6 +3,6 @@ First repository
 
 Hi everyone,
 
-I'm just learning coding, javascript, node.js, react... And now Github!
+I'm just a woman from the Netherlands learning to  code my websites/webapps, javascript, node.js, react... And now Github!
 
 Happy coding
